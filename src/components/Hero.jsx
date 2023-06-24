@@ -26,9 +26,6 @@ const Hero = () => {
         <span className='orange_gradient'>OpenAI GPT-4</span>
 
       </h1>
-      <h2 className='desc'>
-        Why read when you can summarize?
-      </h2>
     </header>
   )
 }
